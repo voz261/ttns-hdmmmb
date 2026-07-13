@@ -1,3 +1,24 @@
+# TTNS Quick Search + Auto Check
+
+## Giới thiệu
+Script Tampermonkey giúp tự động hóa việc tìm kiếm và kiểm tra thông tin trên trang quản trị TTNS Winmart.
+
+## Tính năng
+- 🚀 Tìm kiếm nhanh thông tin tài khoản
+- ✅ Tự động kiểm tra trạng thái
+- 📱 Giao diện thân thiện, dễ sử dụng
+
+## Cài đặt
+
+### Yêu cầu
+- Trình duyệt: Chrome, Firefox, Edge hoặc các trình duyệt hỗ trợ extension
+- Extension: [Tampermonkey](https://www.tampermonkey.net/) (khuyến nghị) hoặc Greasemonkey
+
+### Hướng dẫn cài đặt
+
+#### Cách 1: Cài đặt tự động (Khuyến nghị)
+1. Cài extension Tampermonkey cho trình duyệt của bạn
+2. Truy cập link cài đặt script: https://github.com/voz261/ttns-hdmmmb/raw/refs/heads/main/ttns.user.js
 3. Tampermonkey sẽ tự động phát hiện và hiện nút "Install"
 4. Click "Install" để hoàn tất
 
