@@ -1,6 +1,12 @@
 // ==UserScript==
 // @name         TTNS Quick Search + Auto Check
+// @namespace    https://github.com/voz261/ttns-hdmmmb
+// @version      1.0.0
+// @description  tuanna3
+// @author       tuanna3
 // @match        https://ttns.winmart.vn/tai-khoan-ad
+// @downloadURL  https://github.com/voz261/ttns-hdmmmb/raw/refs/heads/main/ttns.user.js
+// @updateURL    https://github.com/voz261/ttns-hdmmmb/raw/refs/heads/main/ttns.user.js
 // @grant        none
 // ==/UserScript==
 
